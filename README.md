@@ -18,7 +18,3 @@ Sou comunicativo, com grande facilidade para trabalhar em equipe, dedicado e com
 - [Dashboard de vendas](https://dsvendas-hugo.netlify.app/) - projeto criado com Spring e React, realizado na Semana Spring React, ministrado pelo professor [@Nelio-Alves](https://www.linkedin.com/in/nelio-alves/) da [@DevSuperior](https://www.linkedin.com/school/devsuperior/). Frontend com React, usando apexChart, reactRouterDOM, axios, dateFns e reactHooks, backend springBoot, springData, jpa, ORM, e banco de dados h2 e postgreSQL.
 
 - [Sistema emergêncial para pizzaria](https://github.com/hugonsantos/sistema-pizzaria) - Sistema auxiliar para pizzarias que precisam substituir o papel por um sistema em caso de problemas com o sistema principal.
-
-- [API Rest com Spring Boot e MongoDB](https://github.com/hugonsantos/redesocial-mongodb) - Uma API Rest de uma rede social, criado no curso de Java Completo Programação orientada a objetos do professor Nélio Alves, utilizando Spring Boot e o banco de dados orientado a agregados MongoDB.
-
-- [Web services com Spring Boot (Rest)](https://github.com/hugonsantos/aula-spring) - Minha primeira API Rest simulando a regra de negócio de um sistema de vendas, criado no curso de Java Completo Programação orientada a objetos do professor Nélio Alves, utilizando Spring Boot, JPA/Hibernate, mostrando as associações e perfis de desenvolvimento. Para teste foi usado o banco de dados em memória H2 e para produção, o PostgreSQL.
